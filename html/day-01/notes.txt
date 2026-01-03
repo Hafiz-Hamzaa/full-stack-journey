@@ -1,0 +1,50 @@
+# Day - 01 Class : How Website Works and MERN Stack Roadmap 
+# google.com -> domain - DNS System
+# client and server - request - server konsa google.com
+# Role of Browser
+
+# HTML , CSS , JS Files download krega 
+# UI per rendered krega or apko aik achaa Web Page dekh jaiga.
+ 
+# Har aik Intenet devive uska aik kia unique IP address.
+# google.com  wo aik IP address me convert krdeta hai 142.23.4.67.
+
+# Client or Server kai drmiyan
+# Request and Response Cycle.
+
+# Full Stack Developer Roadmap
+# Front end Client Side = Client Side Techlogies = HTML , CSS , JS
+# Backend Server Side  = Node.JS , Python , PHP , Laravel and Mongodb (No SQL) , SQL Databases
+
+# MERN Stack Follow : MongoDB , Express JS (Framework) , React JS (JS libraray) , NodeJS(JS Runtime Environemnt)
+# JAVA Full Stack 
+
+# Git and Github for manage your code.
+# mainly 2 : solo dev and Collaboration : aik hi project per multiple dev kaaam krskte hai.
+
+
+# FrontEnd Technologies :
+# HTML = Hyper Text Markup Language : 
+# Hyper Text google.com tags <a></a> Website ka structure
+# CSS : styling krega website ki
+# CSS ki libraay hai : Bootstrap 5
+# Static Website - JS dynamism - btn per click kre form submit kre.
+# TypeScript : JS ka supesert
+
+# Responsive Website : har device kai liye responsive banana.
+
+# Library : kisi ne sara bohat code aik jaga rkha huwa hai bs hame usko use krna ata hai : components based libraray
+# Framework : set of rules
+
+# Front End Specilization: React JS Complex UI Banana : Facebook ne React (SPA) React ka Baap konsa. Next JS (Full Stack Framework)
+# Tailwind CSS : Framework hai - utilties classes.
+
+# Backend Roadmap
+# NodeJS = JS ka runtime environment hai.
+# JS ki aik aisi langauge hai jiska code ham Front end or Backend me dono me likh skte hai NodeJS me.
+
+# Express JS : Node JS ka framework hai :
+# SQL (Relational Tables ki form me mtlb : rows and columns) 
+# (MongoDB me ATLAS NOSQL Database) : Documents ki form JSON form. 
+
+# Deployment : Hosting : Cloud : HTML CSS JS - Free Deployemnt Softwares : Github Pages , Vercel and Netlify.
