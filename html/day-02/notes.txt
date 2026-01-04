@@ -1,0 +1,21 @@
+# Day - 02 : 
+# Folder Structure : Root Folder -> nested subfolders hogai.......
+# Install VS Code - Freely Software built  by
+# What is IDE and Need of IDE
+# How to Create a Folder and How to Open Folder through VS Code and CMD.
+# Live Server and Prettier
+# JAVA FullStack
+# MERN Stack
+
+# index.html : index standard conventation hai browser index file ko home page considered krta hai.
+
+# Structure of WebSite Understand
+# Doctype
+# html = parent tag hai
+# 2 childrens hai konse = head tag and body tag hai
+
+# head tag kai under = website ki information
+# body = different tags 
+
+# Comments : Develpor kai liye - Documentation and notes 
+# Html is case insensitive
