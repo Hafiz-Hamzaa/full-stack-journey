@@ -1,0 +1,23 @@
+# Html Attributes : Additional information about tag. attribute always in opening tag.
+# name=value - pair name=hamza
+
+# id = unique id property
+# use headings for importance not size
+# br is empty tag <br>
+# hr is also empty tag
+
+# Free Images Resources :  
+# freepik , unsplash for images and videos
+
+# Relative URL : ham apne local folder se get kre images.
+# Absolute URL : Wo jab kisi or ki website se le.
+
+# image and video tag , br , hr
+
+# href me url hoiga website ka or target = _blank ka maqsd new tab me website ko open krna.
+
+# 2as = vf2 - vi2
+
+# Browser Tools or Developer Tools
+# View page source and inpect - real time editinh html 
+# Responsive Website
