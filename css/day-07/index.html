@@ -1,0 +1,64 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <style>
+      .btn {
+        width: 130px;
+        height: 40px;
+        border: none;
+        background-color: crimson;
+        font-size: 17px;
+        font-weight: 700;
+        border-radius: 4px;
+        margin: 20px;
+        cursor: pointer;
+      }
+      .btn:hover {
+        cursor: pointer;
+        background-color: burlywood;
+        color: white;
+      }
+      .btn:active {
+        background-color: cadetblue;
+        color: chartreuse;
+      }
+      .box {
+        width: 200px;
+        height: 200px;
+        border: 10px solid black;
+        background-color: crimson;
+        margin: 40px;
+        border-radius: 10px;
+        /* transition-property: all;
+            transition-duration: 2s;
+            transition-timing-function: ease-in-out;
+            transition-delay: 1s; */
+        transition: all 2s ease-in-out 1s;
+      }
+      .box:hover {
+        /* width: 300px;
+        height: 300px; */
+        background-color: darkslategrey;
+        transform: rotate(-45deg);
+        transform: rotate(1rad);
+        transform: rotate(1turn);
+        transform: rotatez(180deg);
+        transform: scale(1.2);
+        transform: skew(10deg);
+        transform: translatex(50px);
+        transform: translate(-50%,-50%);
+        /* border-radius: 50%;
+        border-radius: 0px 141px 131px 0px;
+        -webkit-border-radius: 0px 141px 131px 0px;
+        -moz-border-radius: 0px 141px 131px 0px; */
+      }
+    </style>
+  </head>
+  <body>
+    <button class="btn">Hover me</button>
+    <div class="box"></div>
+  </body>
+</html>
