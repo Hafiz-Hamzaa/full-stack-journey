@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style></style>
+    <style>
+        /* .box {
+            width: 200px;
+            height: 200px;
+            background-color: rgb(95, 41, 41);
+            border-radius: 10px;
+            margin: 20px;
+            animation-name: moveBox;
+            animation-duration: 2s;
+            animation-timing-function: ease-in-out;
+            animation-delay: 1s;
+            animation-iteration-count: infinite;
+            animation-direction:alternate;
+        }
+
+        @keyframes moveBox{
+            0%{
+                transform: translatex(0px);
+            }
+            50%{
+                transform: scale(1.2);
+            }
+            70%{
+                transform: rotate(180deg);
+            }
+            100%{
+                transform: translatex(200px);
+            }
+        } */
+
+        .box{
+            width: 200px;
+            height: 200px;
+            border-radius: 50%;
+            background-color: transparent;
+            border: 3px solid transparent;
+            margin: 30px;
+            border-top: 5px solid blue;
+            animation: spin 1s linear infinite ;
+        }
+
+        @keyframes spin {
+            100%{
+                transform: rotate(360deg);
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="box"></div>
+</body>
+</html>
